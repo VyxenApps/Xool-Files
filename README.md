@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/xool-files-icon.png" alt="Xool Files app icon" width="112" height="112">
+  <img src="xool-files-icon.png" alt="Xool Files app icon" width="112" height="112">
 </p>
 
 <h1 align="center">Xool Files</h1>
@@ -13,7 +13,7 @@
   <strong><a href="https://github.com/VyxenApps/Xool-Files/releases/latest">Download for Windows</a></strong>
 </p>
 
-![Xool Files with a workspace of pinned folders and two folders open side by side](assets/workspaces-and-split-view.jpg)
+![Xool Files with a workspace of pinned folders and two folders open side by side](workspaces-and-split-view.jpg)
 
 ## Features
 
@@ -24,7 +24,7 @@
 - **Image tools.** Convert to PNG, WebP, or JPG, resize with the aspect ratio locked, or mirror an image horizontally or vertically.
 - **Personalization.** Choose a theme and accent color, configure keyboard shortcuts, and switch between English and Spanish.
 
-![Xool Files image preview with buttons for conversion, resizing, and mirroring](assets/image-preview.jpg)
+![Xool Files image preview with buttons for conversion, resizing, and mirroring](image-preview.jpg)
 
 ## Getting started
 
