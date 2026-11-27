@@ -1,16 +1,15 @@
 # Third-party notices
 
-Xool Files uses modified versions of GPUI and GPUI Component.
+The source code for the following libraries is included in `vendor/`. Both retain their upstream metadata and Apache 2.0 license notices. Changes made for Xool Files are identified in the affected source files.
 
 | Library | Version | Included license |
 | --- | --- | --- |
-| GPUI | 0.2.2 | [Apache 2.0](Apache-2.0.txt) |
-| GPUI Component | 0.5.1 | [Apache 2.0](GPUI-Component-Apache-2.0.txt) |
+| GPUI | 0.2.2 | [Apache 2.0](vendor/gpui/LICENSE-APACHE) |
+| GPUI Component | 0.5.1 | [Apache 2.0](vendor/gpui-component/LICENSE-APACHE) |
 
 The local changes cover the initial window presentation in GPUI and transparent backgrounds and partial text selection in GPUI Component.
 
-Each dependency remains subject to its own license.
-
+Cargo downloads the remaining dependencies. Their versions and sources are listed in `Cargo.lock`. Each dependency remains subject to its own license.
 
 ## Symphonia audio libraries
 

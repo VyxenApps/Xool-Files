@@ -1,0 +1,6 @@
+/target/
+/*.exe
+/build.local.json
+/settings.json
+/settings.backup-*.json
+*.log
